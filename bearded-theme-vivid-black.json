@@ -113,9 +113,9 @@
         "editorBracketHighlight.foreground1": "#feab37",
         "editorBracketHighlight.foreground2": "#E66DFF",
         "editorBracketHighlight.foreground3": "#489dff",
-        "editorBracketHighlight.foreground4": "#A95EFF",
+        "editorBracketHighlight.foreground4": "#b370ff",
         "editorBracketHighlight.foreground5": "#489dff",
-        "editorBracketHighlight.foreground6": "#FF478D",
+        "editorBracketHighlight.foreground6": "#ff7b47",
         "editorBracketHighlight.unexpectedBracket.foreground": "#D62C2C",
         "editorBracketMatch.background": "#aaaaaa4d",
         "editorBracketMatch.border": "#aaaaaa73",
@@ -202,8 +202,8 @@
         "scmGraph.foreground2": "#E66DFF",
         "scmGraph.foreground3": "#b7d175",
         "scmGraph.foreground4": "#489dff",
-        "scmGraph.foreground5": "#FF478D",
-        "scmGraph.historyItemBaseRefColor": "#A95EFF",
+        "scmGraph.foreground5": "#ff7b47",
+        "scmGraph.historyItemBaseRefColor": "#b370ff",
         "scmGraph.historyItemHoverAdditionsForeground": "#42DD76",
         "scmGraph.historyItemHoverDefaultLabelBackground": "#aaaab3",
         "scmGraph.historyItemHoverDefaultLabelForeground": "#111111",
@@ -447,13 +447,13 @@
     "semanticHighlighting": true,
     "semanticTokenColors": {
         "class.declaration": {
-            "foreground": "#A95EFF"
+            "foreground": "#b370ff"
         },
         "class.decorator": {
             "foreground": "#E66DFF"
         },
         "enumMember": {
-            "foreground": "#A95EFF"
+            "foreground": "#b370ff"
         },
         "meta.decorator": {
             "foreground": "#E66DFF"
@@ -471,7 +471,7 @@
             "foreground": "#c5c5cb"
         },
         "variable": {
-            "foreground": "#FF478D"
+            "foreground": "#ff7b47"
         },
         "variable.defaultLibrary": {
             "foreground": "#489dff"
@@ -835,7 +835,7 @@
                 "keyword.storage.modifier"
             ],
             "settings": {
-                "foreground": "#2aafab"
+                "foreground": "#ffbe4d"
             }
         },
         {
@@ -919,7 +919,7 @@
                 "meta.group.simple.subexpression.powershell meta.scriptblock.powershell storage.type.powershell"
             ],
             "settings": {
-                "foreground": "#A95EFF"
+                "foreground": "#b370ff"
             }
         },
         {
@@ -952,7 +952,7 @@
                 "entity.source.cmake"
             ],
             "settings": {
-                "foreground": "#FF478D"
+                "foreground": "#ff7b47"
             }
         },
         {
@@ -960,7 +960,7 @@
                 "source.elm constant.type-constructor"
             ],
             "settings": {
-                "foreground": "#FF478D"
+                "foreground": "#ff7b47"
             }
         },
         {
@@ -968,7 +968,7 @@
                 "source.elm storage.type"
             ],
             "settings": {
-                "foreground": "#A95EFF"
+                "foreground": "#b370ff"
             }
         },
         {
@@ -978,7 +978,7 @@
                 "support.class.component.html"
             ],
             "settings": {
-                "foreground": "#A95EFF"
+                "foreground": "#b370ff"
             }
         },
         {
@@ -1026,7 +1026,7 @@
                 "support.class.liquid"
             ],
             "settings": {
-                "foreground": "#FF478D"
+                "foreground": "#ff7b47"
             }
         },
         {
@@ -1083,7 +1083,7 @@
                 "markup.raw.block.markdown"
             ],
             "settings": {
-                "foreground": "#A95EFF"
+                "foreground": "#b370ff"
             }
         },
         {
@@ -1091,7 +1091,7 @@
                 "fenced_code.block.language"
             ],
             "settings": {
-                "foreground": "#A95EFF"
+                "foreground": "#b370ff"
             }
         },
         {
@@ -1143,7 +1143,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#FF478D"
+                "foreground": "#ff7b47"
             }
         },
         {
@@ -1246,7 +1246,7 @@
                 "entity.other.attribute-name.id punctuation.definition.entity"
             ],
             "settings": {
-                "foreground": "#A95EFF"
+                "foreground": "#b370ff"
             }
         },
         {
